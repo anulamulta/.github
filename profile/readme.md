@@ -2,7 +2,7 @@
 # Anula Multa
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img src="./logo.png" alt="Logomarca da Anula Multa" height="96px" width="96px" style="margin: auto;">
+  <img src="https://github.com/anulamulta/.github/blob/main/profile/logo.png" alt="Logomarca da Anula Multa" height="96px" width="96px" style="margin: auto;">
 </div>
 
 ## Sobre Nós
