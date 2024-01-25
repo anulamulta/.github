@@ -1,10 +1,6 @@
 
 # Anula Multa
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img src="https://github.com/anulamulta/.github/blob/main/profile/logo.png" alt="Logomarca da Anula Multa" height="96px" width="96px" style="margin: auto;">
-</div>
-
 ## Sobre Nós
 
 A Anula Multa é uma empresa especializada em recursos administrativos de infrações de trânsito, atuando desde 2014. Nosso compromisso é proporcionar economia e assegurar o direito de dirigir dos condutores, simplificando o processo com uma abordagem rápida e totalmente digital. Ao longo dos anos, acumulamos a impressionante marca de mais de R$ 800 mil economizados pelos nossos clientes em multas de trânsito.
@@ -35,6 +31,11 @@ Em 2021, a Anula Multa foi acelerada pela Cordel Ventures e Instituto Atlântico
 
 A tecnologia desempenha um papel fundamental em nossa abordagem. Com processos 100% digitais, somos capazes de oferecer um serviço ágil e eficiente. A automação de tarefas, a análise de dados e a comunicação digital nos permitem lidar com grandes escalas de infrações, garantindo que cada caso seja tratado de maneira individualizada. A utilização da tecnologia não apenas otimiza nossos processos internos, mas também proporciona uma experiência mais rápida e conveniente para nossos clientes.
 
+
 ## Conheça Mais
 
 Saiba mais sobre a nossa empresa acessando o [site da Anula Multa](https://www.anulamulta.com.br/).
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <img src="https://github.com/anulamulta/.github/blob/main/profile/logo.png" alt="Logomarca da Anula Multa" height="96px" width="96px" style="margin: auto;">
+</div>
